@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SpeechToText.Api/SpeechToText.Api.csproj" />
+    <Project Path="src/SpeechToText.Core/SpeechToText.Core.csproj" />
+  </Folder>
+</Solution>
